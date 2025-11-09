@@ -17,7 +17,7 @@
 
 ### 🎯 Beyond Code
 When I'm not building software, you'll find me:
-- ⚽ Football
+- ⚽ Playing football
 - 🧗 Bouldering
 - 🏃 Running
   
